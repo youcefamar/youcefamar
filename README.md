@@ -2,19 +2,21 @@
 
 ### 🚀 About Me:
 - 🌟 Passionate about coding,machine learning, problem-solving,data sciences , math & algorithms.
-- 💻 Skilled in [Python, Java, C,C++,SQL ,mongoDB ,Flutter&Dart , ].
-- 🌱 Currently learning [-].
+### 💻 Skilled In:
+- **Programming Languages:** Python, JavaScript, SQL, Bash, Java, Dart, C,   
+- **Web Development:** HTML, CSS, Flutter,React 
+- **Database Management:** Oracle DB, MySQL, Mongo DB
+- **Version Control:** Git, GitHub  
+- **Tools & Platforms:** Visual Studio Code, Jupyter Notebook ,Android Studio, Eclipse,BlueJ
+- **Data Analysis:** Pandas, NumPy, Matplotlib, Seaborn,  
+
 - 🛠️ Creator of ['Reglni' - a location-based job-finding app].
 - 📚 Love sharing knowledge and collaborating on exciting projects.
 
 ### 🌐 Find Me Online:
 - 💼 [LinkedIn Profile](https://www.linkedin.com/in/youcef-amar-b34135281/)
-- 🌟 [Portfolio/Website](https://yourwebsite.com)
-- 📧 Reach me at [your.email@example.com]
+- 🌟 [Portfolio/Website](-)
+- 📧 Reach me at [youcefamar127@gmail.com]
 
-### 🔧 Tools & Technologies:
-- Languages: [Python, JavaScript, SQL]
-- Frameworks: [Django, React, Flask]
-- Tools: [Visual Studio Code, GitHub Actions, Oracle DB]
 
 Looking forward to connecting and building awesome things together! 🚀  
