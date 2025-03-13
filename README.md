@@ -1,7 +1,7 @@
 #Hi there, I'm Youcef Amar !
 
 ### About Me:
-- 🌟 Passionate about coding,machine learning, problem-solving,data sciences , math & algorithms.
+- Passionate about coding,machine learning, problem-solving,data sciences , math & algorithms.
 ### Skilled In:
 - **Programming Languages:** Python, JavaScript, SQL, Bash, Java, Dart, C,   
 - **Web Development:** HTML, CSS, Flutter,React 
