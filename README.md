@@ -1,17 +1,17 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:ff00cc,45:3333ff,100:00ffcc&height=210&section=header&text=YOUCEF%20AMAR&fontSize=48&fontColor=ffffff&animation=twinkling&fontAlignY=36&desc=AI%2FML%20Engineer%20%E2%80%A2%20Full%20Stack%20Developer%20%E2%80%A2%20MLOps%20%E2%80%A2%20RAG%20%E2%80%A2%20Computer%20Vision&descAlignY=58&descSize=16" alt="Animated header" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7aa2f7,50:bb9af7,100:f7768e&height=210&section=header&text=YOUCEF%20AMAR&fontSize=48&fontColor=1a1b26&animation=fadeIn&fontAlignY=36&desc=AI%2FML%20Engineer%20%E2%80%A2%20Full%20Stack%20Developer%20%E2%80%A2%20MLOps%20%E2%80%A2%20RAG%20%E2%80%A2%20Computer%20Vision&descAlignY=58&descSize=16&descColor=1a1b26" alt="Header" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=900&size=23&duration=1800&pause=650&color=00F7FF&center=true&vCenter=true&width=950&height=52&lines=SYSTEM+BOOT%3A+YOUCEF.EXE;AI%2FML+%E2%80%A2+RAG+PIPELINES+%E2%80%A2+AGENTIC+AI+%E2%80%A2+COMPUTER+VISION;FULL+STACK+BUILDS+%E2%80%A2+FASTAPI+%E2%80%A2+REACT+%E2%80%A2+PYTORCH;BUGS+SPAWN.+MODELS+TRAIN.+CODE+SHIPS.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=1800&pause=650&color=7AA2F7&center=true&vCenter=true&width=950&height=52&lines=SYSTEM+BOOT%3A+YOUCEF.EXE;AI%2FML+%E2%80%A2+RAG+PIPELINES+%E2%80%A2+AGENTIC+AI+%E2%80%A2+COMPUTER+VISION;FULL+STACK+BUILDS+%E2%80%A2+FASTAPI+%E2%80%A2+REACT+%E2%80%A2+PYTORCH;BUGS+SPAWN.+MODELS+TRAIN.+CODE+SHIPS.)](https://git.io/typing-svg)
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:ff0055,50:7b2ff7,100:00f5ff&height=5&section=header" width="100%" alt="Neon divider" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7aa2f7,50:bb9af7,100:f7768e&height=4&section=header" width="100%" alt="Divider" />
 
-![Profile Views](https://komarev.com/ghpvc/?username=youcefamar&style=for-the-badge&color=blueviolet)
-![Followers](https://img.shields.io/github/followers/youcefamar?style=for-the-badge&logo=github&label=FOLLOWERS&color=00d9ff)
-![Stars](https://img.shields.io/github/stars/youcefamar?style=for-the-badge&logo=github&label=STARS&color=ffcc00)
-![Build](https://img.shields.io/badge/BUILD-PASSING-00ff88?style=for-the-badge)
-![Mode](https://img.shields.io/badge/MODE-CHAOS%20ENGINEERED-ff69b4?style=for-the-badge)
-![Boss](https://img.shields.io/badge/BOSS-PRODUCTION-red?style=for-the-badge)
+![Profile Views](https://komarev.com/ghpvc/?username=youcefamar&style=for-the-badge&color=7aa2f7&labelColor=1a1b26)
+![Followers](https://img.shields.io/github/followers/youcefamar?style=for-the-badge&logo=github&label=FOLLOWERS&color=bb9af7&labelColor=1a1b26)
+![Stars](https://img.shields.io/github/stars/youcefamar?style=for-the-badge&logo=github&label=STARS&color=e0af68&labelColor=1a1b26)
+![Build](https://img.shields.io/badge/BUILD-PASSING-9ece6a?style=for-the-badge&labelColor=1a1b26)
+![Mode](https://img.shields.io/badge/MODE-CHAOS%20ENGINEERED-f7768e?style=for-the-badge&labelColor=1a1b26)
+![Boss](https://img.shields.io/badge/BOSS-PRODUCTION-ff9e64?style=for-the-badge&labelColor=1a1b26)
 
 </div>
 
